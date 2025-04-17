@@ -1,7 +1,7 @@
 # TechBazaar - Modern E-commerce Platform
 
 <div align="center">
-  <img src="public/images/logo.svg" alt="TechBazaar Logo" width="120" height="120" style="border-radius: 50%">
+  <img src="public/images/logo.svg" alt="TechBazaar Logo" width="120" height="120" style="border-radius: 100%">
   <h3>A premium tech e-commerce experience</h3>
 </div>
 
