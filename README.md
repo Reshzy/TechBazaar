@@ -193,5 +193,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 <div align="center">
-  <p>Created with ❤️ by Rodge Andru P.Viloria</p>
+  <p>Created with ❤️ by Rodge Andru P. Viloria</p>
 </div>
